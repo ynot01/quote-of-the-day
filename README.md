@@ -2,7 +2,7 @@
 
 Shows today's "zen quote" at the bottom right corner of the screen
 
-Runs as a borderless transparent clickthrough window
+Runs as a always-on-top borderless transparent clickthrough window
 
 Educational project I made for myself to learn API interactions in dotnet
 
